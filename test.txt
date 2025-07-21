@@ -1,6 +1,3 @@
 Testni fajl
-<<<<<<< HEAD
 Nova linija
-=======
 Nesto
->>>>>>> 9836dead6649f32c199dedd7669ec4b5bfa8b37d
